@@ -1,3 +1,4 @@
+![Demo](images/scheme.png)
 Using the OpenStreetMap API with the database and data visualization
 on OpenStreetMap.
 
